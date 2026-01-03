@@ -1,5 +1,5 @@
 alert("Error! Please Check your internet connection");
 
-var aboutFuturbyte = "FuturByte:Custom Software Development Company"
+var aboutFuturbyte = "A Custom Software Development Company"
 
-console.log(aboutFuturbyte)
+console.log(aboutFuturbyte);
